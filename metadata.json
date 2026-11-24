@@ -1,0 +1,6 @@
+{
+  "name": "Fernando Carrero — Portafolio 3D",
+  "description": "Portafolio interactivo WebGL2 y Three.js de Fernando Carrero, diseñador gráfico e ingeniero en sistemas, ambientado en una calle nocturna con niebla volumétrica, lluvia y postprocesado cinematográfico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
